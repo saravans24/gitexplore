@@ -1,3 +1,3 @@
-all is well
+this is JS
 
-link for google sign in 
+Use login from Google

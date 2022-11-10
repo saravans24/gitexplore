@@ -1,5 +1,0 @@
-just change
-
-added a chart funciton in our branch
-
-added a code for doing logout

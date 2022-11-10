@@ -1,3 +1,3 @@
 this is JS
 
-Use login from Google
+Use login from Google docs
